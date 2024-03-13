@@ -1,10 +1,3 @@
-                     DEBRE BERHAN UNIVERSITY
-
-COURSE TITLE: FUNDAMENTAL Of BIG DATA ANALYTICS AND BUSINESS INTELLIEGENCE
-COURSE CODE:SEng5091
-   
-   Name: Dawit Gebeyehu    Id.No 1399/12
-
 
 # Netflix Data Analysis
 
